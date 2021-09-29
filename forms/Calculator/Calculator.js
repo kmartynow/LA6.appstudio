@@ -1,4 +1,4 @@
-/*
+
 btnAdd.onclick=function(){
   let Num1= Number(inptNum1.value)
   let Num2 = Number(inptNum2.value)
@@ -20,4 +20,3 @@ lblAnswer.value = " "
   inptNum1.value = " "
  inptNum2.value = " "
 }
-*/

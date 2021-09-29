@@ -1,4 +1,4 @@
-let members = ["Mary", "Sam", "Joey", "Paul", "Mike", "Char", "Jenny", "Kennedy", "Kaden", "Kurt", "Anne"]
+ let members = ["Mary", "Sam", "Joey", "Paul", "Mike", "Char", "Jenny", "Kennedy", "Kaden", "Kurt", "Anne"]
 
 btnShowMessage.onclick = function() {
   let userName = inptName.value
@@ -10,3 +10,4 @@ btnShowMessage.onclick = function() {
     lblDisplayName.value = userName + "You have been added to the membership roster. "
   }
 }
+
